@@ -1,10 +1,10 @@
 <h2 align="left">
 Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h2>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=white)](https://dibodev.com)
-[![CV](https://img.shields.io/badge/-CV-yellow?style=for-the-badge)](https://github.com/Leoglme/Leoglme/blob/main/cv-leo-guillaume.pdf)
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/leoglme)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dibodev/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=white)]()
+[![CV](https://img.shields.io/badge/-CV-yellow?style=for-the-badge)]()
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]()
 ----
 
 <h3>Things I code with</h3>
@@ -20,19 +20,10 @@ Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/g
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
   <br><br>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Sql" src="https://img.shields.io/badge/-SQL-0079d6?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-<br><br>
+<br>
   <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
- 
-
-</p>
-<hr>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoglme&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
